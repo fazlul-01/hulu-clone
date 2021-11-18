@@ -1,3 +1,6 @@
+##Visit Demo Page
+[Hulu Clone](https://hulu-clone-nxzk2u7yo-fazlul-01.vercel.app/)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
